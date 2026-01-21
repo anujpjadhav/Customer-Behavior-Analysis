@@ -3,7 +3,7 @@
 ## 📌 Overview
 
 This project delivers a full **end-to-end data analytics pipeline**
-focused on understanding customer shopping behavior.\
+focused on understanding customer shopping behavior.
 From raw data to dashboard-ready insights, the project mirrors how
 analytics is actually done in the industry.
 
@@ -14,9 +14,9 @@ Power BI for visualization → PPT & PDF reporting.**
 
 ## 🗂 Dataset
 
--   **Domain:** Customer Shopping Behavior\
--   **Format:** CSV\
--   **Records:** Customer-level transaction data\
+-   **Domain:** Customer Shopping Behavior
+-   **Format:** CSV
+-   **Records:** Customer-level transaction data
 -   **Key Attributes:**
     -   Customer demographics\
     -   Purchase behavior\
