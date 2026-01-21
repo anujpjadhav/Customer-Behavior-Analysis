@@ -141,7 +141,8 @@ jupyter notebook
 
 ## 🚀 Why This Project Matters
 
-This project proves the ability to: - Think like an analyst\
+This project proves the ability to: - 
+- Think like an analyst\
 - Communicate insights clearly\
 - Work across the full data stack\
 - Deliver results, not just code
